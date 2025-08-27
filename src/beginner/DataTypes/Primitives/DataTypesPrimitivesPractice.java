@@ -1,4 +1,4 @@
-package beginner.DataTypes;
+package beginner.DataTypes.Primitives;
 
 public class DataTypesPrimitivesPractice {
     public static void main(String[] args) {
